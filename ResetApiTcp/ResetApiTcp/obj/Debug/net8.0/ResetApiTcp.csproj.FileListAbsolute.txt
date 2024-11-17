@@ -1,0 +1,14 @@
+C:\Users\pargev\source\repos\ResetApiTcp\ResetApiTcp\bin\Debug\net8.0\ResetApiTcp.exe
+C:\Users\pargev\source\repos\ResetApiTcp\ResetApiTcp\bin\Debug\net8.0\ResetApiTcp.deps.json
+C:\Users\pargev\source\repos\ResetApiTcp\ResetApiTcp\bin\Debug\net8.0\ResetApiTcp.runtimeconfig.json
+C:\Users\pargev\source\repos\ResetApiTcp\ResetApiTcp\bin\Debug\net8.0\ResetApiTcp.dll
+C:\Users\pargev\source\repos\ResetApiTcp\ResetApiTcp\bin\Debug\net8.0\ResetApiTcp.pdb
+C:\Users\pargev\source\repos\ResetApiTcp\ResetApiTcp\obj\Debug\net8.0\ResetApiTcp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pargev\source\repos\ResetApiTcp\ResetApiTcp\obj\Debug\net8.0\ResetApiTcp.AssemblyInfoInputs.cache
+C:\Users\pargev\source\repos\ResetApiTcp\ResetApiTcp\obj\Debug\net8.0\ResetApiTcp.AssemblyInfo.cs
+C:\Users\pargev\source\repos\ResetApiTcp\ResetApiTcp\obj\Debug\net8.0\ResetApiTcp.csproj.CoreCompileInputs.cache
+C:\Users\pargev\source\repos\ResetApiTcp\ResetApiTcp\obj\Debug\net8.0\ResetApiTcp.dll
+C:\Users\pargev\source\repos\ResetApiTcp\ResetApiTcp\obj\Debug\net8.0\refint\ResetApiTcp.dll
+C:\Users\pargev\source\repos\ResetApiTcp\ResetApiTcp\obj\Debug\net8.0\ResetApiTcp.pdb
+C:\Users\pargev\source\repos\ResetApiTcp\ResetApiTcp\obj\Debug\net8.0\ResetApiTcp.genruntimeconfig.cache
+C:\Users\pargev\source\repos\ResetApiTcp\ResetApiTcp\obj\Debug\net8.0\ref\ResetApiTcp.dll
