@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LaCwgwAZwms=",
+  "dgSpecHash": "n83knErcRME=",
   "success": true,
-  "projectFilePath": "C:\\Users\\pargev\\source\\repos\\ResetApiTcp\\ResetApiTcp\\ResetApiTcp.csproj",
+  "projectFilePath": "C:\\Users\\pargev\\Documents\\GitHub\\ResetApiTcpCSSH\\ResetApiTcp\\ResetApiTcp\\ResetApiTcp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pargev\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

@@ -43,8 +43,12 @@ namespace ResetApiTcp.Cliernt
         private DataTransportationFormat Update(DataTransportationFormat GET) 
         {
             DataTransportationFormat SET = new DataTransportationFormat();
+            SET.NameUser = Environment.MachineName;
+            SET.Request = GET.Request;
+            SET.DataFormat = GET.DataFormat;
 
-
+            //read data and write data
+           
 
             return SET;
         }

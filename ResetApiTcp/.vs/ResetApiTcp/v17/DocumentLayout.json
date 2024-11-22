@@ -1,25 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pargev\\source\\repos\\ResetApiTcp\\",
+  "WorkspaceRootPath": "C:\\Users\\pargev\\Documents\\GitHub\\ResetApiTcpCSSH\\ResetApiTcp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\source\\repos\\resetapitcp\\resetapitcp\\cliernt\\clientthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\documents\\github\\resetapitcpcssh\\resetapitcp\\resetapitcp\\cliernt\\clientthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\cliernt\\clientthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\source\\repos\\resetapitcp\\resetapitcp\\server\\serverstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\server\\serverstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\documents\\github\\resetapitcpcssh\\resetapitcp\\resetapitcp\\patterns\\formatdatatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\patterns\\formatdatatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\source\\repos\\resetapitcp\\resetapitcp\\streammessage\\streamreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\streammessage\\streamreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\documents\\github\\resetapitcpcssh\\resetapitcp\\resetapitcp\\patterns\\datatransportationformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\patterns\\datatransportationformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\source\\repos\\resetapitcp\\resetapitcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\documents\\github\\resetapitcpcssh\\resetapitcp\\resetapitcp\\patterns\\requesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\patterns\\requesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\documents\\github\\resetapitcpcssh\\resetapitcp\\resetapitcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\source\\repos\\resetapitcp\\resetapitcp\\streammessage\\streamwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\documents\\github\\resetapitcpcssh\\resetapitcp\\resetapitcp\\server\\serverstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\server\\serverstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\documents\\github\\resetapitcpcssh\\resetapitcp\\resetapitcp\\streammessage\\streamreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\streammessage\\streamreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\documents\\github\\resetapitcpcssh\\resetapitcp\\resetapitcp\\streammessage\\streamwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\streammessage\\streamwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,37 +50,75 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormatDataType.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\ResetApiTcpCSSH\\ResetApiTcp\\ResetApiTcp\\Patterns\\FormatDataType.cs",
+              "RelativeDocumentMoniker": "ResetApiTcp\\Patterns\\FormatDataType.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\ResetApiTcpCSSH\\ResetApiTcp\\ResetApiTcp\\Patterns\\FormatDataType.cs",
+              "RelativeToolTip": "ResetApiTcp\\Patterns\\FormatDataType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:51:27.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RequestType.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\ResetApiTcpCSSH\\ResetApiTcp\\ResetApiTcp\\Patterns\\RequestType.cs",
+              "RelativeDocumentMoniker": "ResetApiTcp\\Patterns\\RequestType.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\ResetApiTcpCSSH\\ResetApiTcp\\ResetApiTcp\\Patterns\\RequestType.cs",
+              "RelativeToolTip": "ResetApiTcp\\Patterns\\RequestType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:49:45.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataTransportationFormat.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\ResetApiTcpCSSH\\ResetApiTcp\\ResetApiTcp\\Patterns\\DataTransportationFormat.cs",
+              "RelativeDocumentMoniker": "ResetApiTcp\\Patterns\\DataTransportationFormat.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\ResetApiTcpCSSH\\ResetApiTcp\\ResetApiTcp\\Patterns\\DataTransportationFormat.cs",
+              "RelativeToolTip": "ResetApiTcp\\Patterns\\DataTransportationFormat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:49:24.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ClientThread.cs",
-              "DocumentMoniker": "C:\\Users\\pargev\\source\\repos\\ResetApiTcp\\ResetApiTcp\\Cliernt\\ClientThread.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\ResetApiTcpCSSH\\ResetApiTcp\\ResetApiTcp\\Cliernt\\ClientThread.cs",
               "RelativeDocumentMoniker": "ResetApiTcp\\Cliernt\\ClientThread.cs",
-              "ToolTip": "C:\\Users\\pargev\\source\\repos\\ResetApiTcp\\ResetApiTcp\\Cliernt\\ClientThread.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\ResetApiTcpCSSH\\ResetApiTcp\\ResetApiTcp\\Cliernt\\ClientThread.cs",
               "RelativeToolTip": "ResetApiTcp\\Cliernt\\ClientThread.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T12:30:30.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ServerStart.cs",
-              "DocumentMoniker": "C:\\Users\\pargev\\source\\repos\\ResetApiTcp\\ResetApiTcp\\Server\\ServerStart.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\ResetApiTcpCSSH\\ResetApiTcp\\ResetApiTcp\\Server\\ServerStart.cs",
               "RelativeDocumentMoniker": "ResetApiTcp\\Server\\ServerStart.cs",
-              "ToolTip": "C:\\Users\\pargev\\source\\repos\\ResetApiTcp\\ResetApiTcp\\Server\\ServerStart.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\ResetApiTcpCSSH\\ResetApiTcp\\ResetApiTcp\\Server\\ServerStart.cs",
               "RelativeToolTip": "ResetApiTcp\\Server\\ServerStart.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAAACgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T12:24:11.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-17T12:24:11.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "StreamWriter.cs",
-              "DocumentMoniker": "C:\\Users\\pargev\\source\\repos\\ResetApiTcp\\ResetApiTcp\\StreamMessage\\StreamWriter.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\ResetApiTcpCSSH\\ResetApiTcp\\ResetApiTcp\\StreamMessage\\StreamWriter.cs",
               "RelativeDocumentMoniker": "ResetApiTcp\\StreamMessage\\StreamWriter.cs",
-              "ToolTip": "C:\\Users\\pargev\\source\\repos\\ResetApiTcp\\ResetApiTcp\\StreamMessage\\StreamWriter.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\ResetApiTcpCSSH\\ResetApiTcp\\ResetApiTcp\\StreamMessage\\StreamWriter.cs",
               "RelativeToolTip": "ResetApiTcp\\StreamMessage\\StreamWriter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -76,24 +126,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "StreamReader.cs",
-              "DocumentMoniker": "C:\\Users\\pargev\\source\\repos\\ResetApiTcp\\ResetApiTcp\\StreamMessage\\StreamReader.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\ResetApiTcpCSSH\\ResetApiTcp\\ResetApiTcp\\StreamMessage\\StreamReader.cs",
               "RelativeDocumentMoniker": "ResetApiTcp\\StreamMessage\\StreamReader.cs",
-              "ToolTip": "C:\\Users\\pargev\\source\\repos\\ResetApiTcp\\ResetApiTcp\\StreamMessage\\StreamReader.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\ResetApiTcpCSSH\\ResetApiTcp\\ResetApiTcp\\StreamMessage\\StreamReader.cs",
               "RelativeToolTip": "ResetApiTcp\\StreamMessage\\StreamReader.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAABEAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T09:46:47.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-16T09:46:47.643Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pargev\\source\\repos\\ResetApiTcp\\ResetApiTcp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\ResetApiTcpCSSH\\ResetApiTcp\\ResetApiTcp\\Program.cs",
               "RelativeDocumentMoniker": "ResetApiTcp\\Program.cs",
-              "ToolTip": "C:\\Users\\pargev\\source\\repos\\ResetApiTcp\\ResetApiTcp\\Program.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\ResetApiTcpCSSH\\ResetApiTcp\\ResetApiTcp\\Program.cs",
               "RelativeToolTip": "ResetApiTcp\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
