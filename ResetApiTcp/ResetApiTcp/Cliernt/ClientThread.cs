@@ -11,7 +11,7 @@ namespace ResetApiTcp.Cliernt
         public ClientThread(TcpClient Client) 
         {
             this.Client = Client;
-            Stream stream = Client.GetStream();
+            NetworkStream stream = Client.GetStream();
             StreamMessage.StreamReader read = new StreamMessage.StreamReader();
             StreamMessage.StreamWriter write = new StreamMessage.StreamWriter();
             DataTransportationFormat GET = new DataTransportationFormat();
