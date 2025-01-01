@@ -50,6 +50,9 @@ namespace ResetApiTcp.Cliernt
             //read data and write data
            
 
+
+
+
             return SET;
         }
         

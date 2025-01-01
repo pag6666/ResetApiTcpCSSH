@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ResetApiTcp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78a8f2767f9100d94dc71c49513512ac459c765e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6aef21d401c6c98ec90d952783deef68907250ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("ResetApiTcp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ResetApiTcp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

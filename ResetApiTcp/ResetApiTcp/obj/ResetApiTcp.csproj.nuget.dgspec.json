@@ -1,31 +1,34 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pargev\\Documents\\GitHub\\ResetApiTcpCSSH\\ResetApiTcp\\ResetApiTcp\\ResetApiTcp.csproj": {}
+    "D:\\tools\\GIY_HUB_PROJECTS\\ResetApiTcpCSSH\\ResetApiTcp\\ResetApiTcp\\ResetApiTcp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pargev\\Documents\\GitHub\\ResetApiTcpCSSH\\ResetApiTcp\\ResetApiTcp\\ResetApiTcp.csproj": {
+    "D:\\tools\\GIY_HUB_PROJECTS\\ResetApiTcpCSSH\\ResetApiTcp\\ResetApiTcp\\ResetApiTcp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pargev\\Documents\\GitHub\\ResetApiTcpCSSH\\ResetApiTcp\\ResetApiTcp\\ResetApiTcp.csproj",
+        "projectUniqueName": "D:\\tools\\GIY_HUB_PROJECTS\\ResetApiTcpCSSH\\ResetApiTcp\\ResetApiTcp\\ResetApiTcp.csproj",
         "projectName": "ResetApiTcp",
-        "projectPath": "C:\\Users\\pargev\\Documents\\GitHub\\ResetApiTcpCSSH\\ResetApiTcp\\ResetApiTcp\\ResetApiTcp.csproj",
-        "packagesPath": "C:\\Users\\pargev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pargev\\Documents\\GitHub\\ResetApiTcpCSSH\\ResetApiTcp\\ResetApiTcp\\obj\\",
+        "projectPath": "D:\\tools\\GIY_HUB_PROJECTS\\ResetApiTcpCSSH\\ResetApiTcp\\ResetApiTcp\\ResetApiTcp.csproj",
+        "packagesPath": "C:\\Users\\SystemX\\.nuget\\packages\\",
+        "outputPath": "D:\\tools\\GIY_HUB_PROJECTS\\ResetApiTcpCSSH\\ResetApiTcp\\ResetApiTcp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\pargev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SystemX\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,7 +46,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -52,6 +56,10 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.119, )"
             }
           },
           "imports": [
@@ -70,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
